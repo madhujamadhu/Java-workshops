@@ -8,3 +8,4 @@ keywords
 datatype
 control statemrnt
 looping statement
+opertar
