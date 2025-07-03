@@ -14,5 +14,4 @@ public class Pric {
         System.out.println("price in descending order");
         System.out.println(Arrays.toString(price));
     }
-    
 }
