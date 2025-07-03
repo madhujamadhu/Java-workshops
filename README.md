@@ -9,3 +9,9 @@ datatype
 control statemrnt
 looping statement
 opertar
+class=hotal buliding
+mess
+rooms
+clss=academi buliding
+library
+auditorium
