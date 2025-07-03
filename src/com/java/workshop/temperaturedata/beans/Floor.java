@@ -15,7 +15,4 @@ public class Floor {
     public int getNumber(){
         return number;
     }
-    
-
-
 }
