@@ -19,11 +19,5 @@ public class Employee {
         {
             System.out.println(Arrays.toString(employee));
         }
-
-
-
-
     }
-}
-
 
