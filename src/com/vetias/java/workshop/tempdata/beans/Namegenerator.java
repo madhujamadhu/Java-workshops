@@ -10,7 +10,7 @@ public class Namegenerator {
         String gender=scanner.next();
         if("male".equalsIgnoreCase(gender)){
             System.out.println("mr"+name);
-        }else{
+        }else{ 
             System.out.println("ms"+name);
         }
         System.out.println("enter your qualification:");
