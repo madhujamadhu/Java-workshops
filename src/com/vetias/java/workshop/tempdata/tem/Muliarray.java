@@ -1,3 +1,4 @@
+package src.com.vetias.java.workshop.tempdata.tem;
 public class Muliarray {
     public static void main(String[] args) {
         String[][] students = {

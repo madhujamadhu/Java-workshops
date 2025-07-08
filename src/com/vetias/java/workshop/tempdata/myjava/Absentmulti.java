@@ -1,3 +1,4 @@
+package src.com.vetias.java.workshop.tempdata.myjava;
 public class Absentmulti {
     public static void main(String[] args) {
         String[][] students={{"01","madhu"},{"02","kobi"},{"03","ajee"},{"04","shahana"}};
