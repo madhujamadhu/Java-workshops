@@ -2,6 +2,7 @@ package src.com.vetias.java.workshop.standardlibs;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.IOException;
 
 public class IOsterm {
     public static void main(String[] args) {
@@ -12,7 +13,7 @@ public class IOsterm {
             while ((bytesRead = inputStream.read(buffer)) != -1) {
                 outputStream.write(buffer, 0, bytesRead);
             }
-        } catch (Exception e) {
+        } catch (IOException e) {
             System.err.println("Error: " + e.getMessage());
         }
     }
