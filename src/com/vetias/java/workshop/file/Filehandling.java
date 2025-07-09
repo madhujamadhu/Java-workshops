@@ -23,5 +23,4 @@ public class Filehandling {
         System.out.println("it is not a directory");
     }
   } 
-    
 }
